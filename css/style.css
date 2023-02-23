@@ -10,3 +10,10 @@ body{
     margin:0px auto;
     width: 1024px;
 }
+#logo{
+    height: 150px;
+}
+nav{
+    background-color: #b63d32;
+    text-align: center;
+}
